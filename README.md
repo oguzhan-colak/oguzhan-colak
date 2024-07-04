@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Netfilx-Clone**
 
-- 🌱 I’m currently learning **JavaScript,Phayton**
+- 🌱 I’m currently learning **JavaScript,Phayton,C#**
 
 - 📫 How to reach me **mehmetoguzhancolak@icloud.com**
 
